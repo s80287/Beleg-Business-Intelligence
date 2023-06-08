@@ -1,0 +1,82 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Umsatz_S80287</Database>
+    <Server>141.56.2.45</Server>
+    <ConnectionString>Data Source=141.56.2.45;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>soET3bsm9pDC1rCBQRv0sXIN2VE=17.05.2023 09:43:0217.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>UmsatzSource</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>Ao3aG09PHqlb/ouBxzaXcNE7Xcg=25.05.2023 15:39:5017.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>UmsatzView</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ogbJQE+Nsx74cqdnwqITDzc9tAw=27.04.2023 15:44:2317.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>Zeit</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>HXafbONMk56v7LH5LWx0HXD2jzA=04.05.2023 16:29:1217.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>Geografie</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>z0SI1MiV5Xav3SySb7MboQpfbck=11.05.2023 15:40:3317.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>Produkt</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Cms2S6JvBmW//q43PQL9+desHFk=11.05.2023 15:34:3517.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>Mitarbeiter</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>I0FLU5aHUd3U6D0n5jq4vqSdy60=08.06.2023 15:36:5117.05.2023 10:42:288Jumh5trrolWUuI9t5CKKZRktQc=25.05.2023 15:49:3717.05.2023 10:42:28</TimeStamp>
+        <ID>
+          <String>Umsatz</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>ySDioadrtVbJELScI3vlSC4MXaM=20.04.2023 15:45:4117.05.2023 10:42:28</TimeStamp>
+      <ID>
+        <String>Umsatz_S80287</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2023-06-08T13:37:02.36Z</LastDeployed>
+</DeploymentSnapshot>

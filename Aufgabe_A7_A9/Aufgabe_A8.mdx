@@ -1,0 +1,55 @@
+-- Duy Tien Nguyen, 47464, s80287
+-- A8_1
+-- Umsatzbetrag, Umsatzmenge Bundesland Sachsen u. Thüringen
+SELECT {[Measures].[Umsatzbetrag], [Measures].[Umsatzmenge]} ON COLUMNS,
+	{[Geografie].[Bundesland].[Sachsen], [Geografie].[Bundesland].[Thüringen]} ON ROWS
+FROM [Umsatz];
+
+-- A8_2
+-- erweitern A8_1: Jahr 2022
+SELECT {[Measures].[Umsatzbetrag], [Measures].[Umsatzmenge]} ON COLUMNS,
+	{[Geografie].[Bundesland].[Sachsen], [Geografie].[Bundesland].[Thüringen]} ON ROWS
+FROM [Umsatz]
+WHERE [Zeit].[Kalender].[Jahr].[2022];
+
+-- A8_3
+-- Umsatzbeträge Produktkategorien, Bundesland Sachsen + Thürigen, Jahr 2022
+SELECT {[Geografie].[Bundesland].[Sachsen], [Geografie].[Bundesland].[Thüringen]} ON COLUMNS,
+	{[Produkt].[Kategorie].Children} ON ROWS
+FROM [Umsatz]
+WHERE ([Measures].[Umsatzbetrag], [Zeit].[Kalender].[Jahr].[2022]);
+
+-- A8_4
+-- Umsatzbeträge, Subkategorien, Produktkategorie Backwaren, Bundesländer Sachsen + Thüringen, Jahr 2022
+SELECT {[Geografie].[Bundesland].[Sachsen], [Geografie].[Bundesland].[Thüringen]} ON COLUMNS,
+	{[Produkt].[Backwaren].Children} ON ROWS
+FROM [Umsatz]
+WHERE ([Measures].[Umsatzbetrag], [Zeit].[Kalender].[Jahr].[2022]);
+
+-- A8_5
+-- Umsatzbeträge, all Produktkategorie, all Staaten, Jahr 2022
+SELECT {[Geografie].[Staat].Children} ON COLUMNS,
+	{[Produkt].[Kategorie].Children} ON ROWS
+FROM [Umsatz]
+WHERE ([Measures].[Umsatzbetrag], [Zeit].[Kalender].[Jahr].[2022]);
+
+-- A8_6
+-- Umsatzbeträge, Umsatzmenge, all Produktkategorie, all Staat, Jahr 2022
+SELECT {[Geografie].[Staat].Children} ON COLUMNS,
+	{[Produkt].[Kategorie].Children} * {[Measures].[Umsatzbetrag], [Measures].[Umsatzmenge]} ON ROWS
+FROM [Umsatz]
+WHERE ([Zeit].[Kalender].[Jahr].[2022]);
+
+-- A8_7
+-- Umsatzbetrag, all Produktkategorie, Jahr, Quartal, Monat
+SELECT {[Produkt].[Kategorie].Children} ON COLUMNS,
+	{[Zeit].[Jahr].Children} * {[Zeit].[Quartal].Children} * {[Zeit].[Monat].Children} ON ROWS
+FROM [Umsatz]
+WHERE ([Measures].[Umsatzbetrag]);
+
+-- A8_8
+-- ändern A8_7: Umsatzbetrag, Umsatzmenge, all Produktkategorie, Quartal + Monat Jahr 2022
+SELECT {[Produkt].[Kategorie].Children} * {[Measures].[Umsatzbetrag], [Measures].[Umsatzmenge]} ON COLUMNS,
+	{[Zeit].[Quartal].Children} * {[Zeit].[Monat].Children} ON ROWS
+FROM [Umsatz]
+WHERE ([Zeit].[Kalender].[Jahr].[2022]);
