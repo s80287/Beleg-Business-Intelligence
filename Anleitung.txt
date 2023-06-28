@@ -1,0 +1,299 @@
+﻿* Server name: 141.56.2.45
+
+* Last page: B4.3
+
+Kenntwort falsch -> UmsatzSource öffnen -> Impersonation Info -> Passwort ändern
+
+Visual Studio Projekt im Ordner Praktikum\Aufgabe_A2_A3
+
+Arbeiten auf T:, sichern am Ende auf U:
+
+MDX-Datenbank: erst meine Datenbank wählen Umsatz_S80287
+
+
+* Skript für SQL
+New Query -> save
+
+* A_1-3: Insert Daten zur Datenbank
+excel-Datei, an letzer Spalte
+="INSERT INTO Geografie VALUES('"&A2&"', '"&B2&"', '"&C2&"', '"&D2&"');"
+"": Gänsefüße, String steht darin
+
+INSERT INTO erst Tabelle Produktkategorie dann Produkt wegen FK
+
+* A_1-4: Daten in Exceltabelle kopieren und bearbeiten
+Kopieren -> Daten -> Text in Spalten
+
+* A_1-5: Neubert ist Ihr eigener Chef und Chef von Nguyen, Lehmann und Günther
+
+* A_1-8: GROUP BY nicht für konstanten Wert ('01')
+
+* A2. Cubes im OLAP Server
+** A2.5.
+Namenspalte: Monatsname?
+
+
+* Dimension Geografie
+** A2.17.
+Spalte Region
+Key: nicht Region, sondern Staat_Region, weil es keine Redundanz gibt
+
+* Dimension Produkt
+** A2.18.
+KeyColumn: ID
+NameColumn: Name
+OrderBy: Key
+
+* Dimension Mitarbeiter
+** A2.21
+Daten in Tabelle anzeigen
+Tabelle in Datenquellensicht -> Rechte Maus -> Daten durchsuchen
+
+* Cube Umsatz
+** A2.29.
+Cubeinhalt im Browser anzeigen
+Measures -> Umsatzdaten -> Umsatzbetrag wählen + ziehen
+Zeit -> Kalender wählen + ziehen
+
+--------------------------------------------------
+
+A3. Visualisierung des Cubes mittels Pivot Tables
+* A3.3.
+Pivotierung:
+Zeilen Hierarchie
+Spalten Sortiment entfernen -> Kalender
+
+*A3.4.
+Kriterium Sortierung: nach Schlüssel -> nicht sinnvoll (bei Monat aber)
+-> sinnvoller: nach Name sortieren
+
+*A3.12. excel
+
+--------------------------------------------------
+
+A4. Anpassung von Metadaten
+A4.1. Umsatz_Management
+Ebene All (Gesamtergebnis) nur in Visual Studio sehbar
+komisch: Management -> Zeichen unten Level 02, 03, 04
+
+A4.5.
+Sortierung
+in PivotTables: geändert
+in den Diagrammen: nicht geändert
+
+--------------------------------------------------
+
+A5. Erweiterung des Cubes Umsatz um berechnete Kennzahlen
+A5.4
+falscher Syntax -> zum Skriptansicht wechseln
+"" für Formatzeichenfolge, nicht direkt vom Skript kopieren
+
+A5.11. Umsatzprognose
+linearer Prozess
+
+A5.15. Verhältnis von Umsatzprognose zu Vorjahressumme Umsatz
+IIF (logical expression, expression by true, expression by true)
+
+--------------------------------------------------
+
+A6. Erweiterung des Cubes Umsatz um Plandaten
+
+Erweiterung der DWH-Datenbank Umsatz
+A6.2.
+Plandaten.csv mit notepad++ öffnen
+
+Erweiterung der Datenquellensicht und des Cubes Umsatz (im Visual Studio Projekt)
+A6.6.
+Measuregruppe		Umsatzdaten			Plandaten
+Dimensionen		Prod, MA, Zeit, Geog		Zeit, Geogr, Prod
+
+Erstellung einer berechneten Kennzahl Ist zu Plan
+A6.11.
+Planwert nicht erfüllt
+Frischwaren 1. Quartal 2021
+Frischwaren 2. Quartal 2022
+
+--------------------------------------------------
+
+A7. Erstellung von Abfragen auf dem relationalen Datenbankschema
+
+
+--------------------------------------------------
+
+A9. Erweiterung des Cubes Umsatz um Key Perfomance Indicators
+A9.5.
+Excel
+KPI Status: rot -> gelb
+Trend: -> schief 45 Grad
+
+A9.6.
+Excel
+KPI Status: gelb -> grün
+Trend: -> hoch 90 Grad
+
+A9.7.
+PrevMember
+
+A9.9. Produktsubkategorien, bei denen es eine negative Entwicklung gibt
+
+Muffins - alle Quartale
+Joghurt - 2. Quartal 2021
+Pflanzliche Milch - 1., 2. und 4. Quartal 2021
+Sauerrahm - Alle Quartale
+Nüsse u. Ölsamen - Alle Quartale
+
+A9.10.
+Dimension: Geografie, Produkt
+regional Unterschied: ja
+z.B.: Deutschland West Backwaren rot, andere gelb
+Deutschland Süd Veggie grün, andere gelb
+
+
+--------------------------------------------------
+
+B1. Einführendes Beispiel zur Erstellung von Entscheidungsbäumen
+B1.6.
+Tree.generate(), Bedeutung Parameter:
+- minElements: minimale Anzahl von Elementen
+- maxLevel: maximale Anzahl von Ebenen
+
+B1.7.
+Real	ja	nein	Summe
+Modell			
+ja	71	2	73
+nein	22	99	121
+Summe	93	101	194
+
+B1.8.
+Fehlerrate = (fp + fn) / (Summe alle 4)
+	= (2 + 22) / 194 = 24 / 194 = 0,1237
+
+B1.9.
+Real	ja	nein	Summe
+Modell			
+ja	67	2	69
+nein	26	99	125
+Summe	93	101	194
+
+B1.10.
+Fehlerrate = (fp + fn) / gesamte Summe = (2 + 26) / 194 = 28 / 194 = 0,1443
+
+
+--------------------------------------------------
+
+B2. Selbständig zu modellierendes Bespiel zur Erstellung von Entscheidungsbäumen
+B2.3.
+Liste der Predictorvariablen festlegen
+'Einkommensklasse' statt 'Einkommen' nehmen
+Diagrann kann nicht auf 1600 Werte von Einkommen geteilt
+
+B2.4. default
+Real	J	N	Summe
+Modell			
+J	278	58	336
+N	63	330	393
+Summe	341	388	729
+
+B2.5.
+Fehlerrate = (fp + fn) / gesamte Summe = (58 + 63) / 729 = 0,165981
+
+B2.6. minElements=10
+Real	J	N	Summe
+Modell			
+J	266	53	319
+N	75	335	410
+Summe	341	388	729
+
+B2.7.
+Fehlerrate = (fp + fn) / gesamte Summe = (53 + 75) / 729 = 0,1756
+
+B2.8. maxLevel=3
+Real	J	N	Summe
+Modell			
+J	265	45	310
+N	76	343	419
+Summe	341	388	729
+
+B2.9.
+Fehlerrate = (fp + fn) / gesamte Summe = (45 + 76) / 729 = 0,165981
+
+
+--------------------------------------------------
+
+B3. Einführendes Bespiel zur Klassifikation mittels Neuronalem Netz - XOR
+B3.4.
+Anzahl Datensätze
+- Trainingsdaten: 126
+- Validierungsdaten: 28
+- Testdaten: 41
+
+B3.5. Konstruktor der Klasse Dense
+
+- neurons: Anzahl der Neuronen
+- activation: Aktivierungsfunktion
+
+B3.6. Konstruktor der Klassen SGD und SGDMomentum
+lr: Lernrate
+
+B3.7. Methode Trainer.fit()
+- epochs: Anzahl Durchläufe durch Trainingssätze
+- batch-size: Anzahl Datensätze, die im Trainingsschritt z. Anpassen der Gewichte verwendet w.
+- eval_every: Anzahl Epochen, nach denen Modellgüte ausgewertet w.
+
+B3.8. 1 Hiddenschicht
+Real	0.0	1.0	Summe
+Modell			
+0	20	0	20
+1	0	21	21
+Summe	20	21	41
+
+B3.9.
+Fehlerrate = (fp + fn) / Summe = (0 + 0) / 41 = 0 // wahrscheinlich falsches Ergebnis
+
+B3.10. 2 Hiddenschicht
+Real	0.0	1.0	Summe
+Modell			
+0	20	0	20
+1	0	21	21
+Summe	20	21	41
+
+B3.11.
+Fehlerrate = (fp + fn) / Summe = (0 + 0) / 41 = 0 // wahrscheinlich falsches Ergebnis
+
+
+--------------------------------------------------
+
+B4. Selbständig zu modellierendes Bespiel zur Klassifikation mittels Neuronalem Netz
+B4.2
+- N_Familienstand -> N_FamilienstandL, Aufgabe falsch
+- Liste Prediktorvariable: ohne Zielvariable (N_kreditwuerdig)
+
+B4.3. 1 Hiddenschicht
+Real	0	1	Summe
+Modell			
+0	223	10	233
+1	17	204	221
+unbest.	19	13	32
+Summe	259	227	486
+
+unbestimmt -> Fehler
+
+B4.4.
+Fehlerrate = (10 + 17 + 32) / 486 = 0,1214
+
+B4.5.
+Lösung:
+- AZ Hiddenschicht veringern
+- AN Neu veringern
+- epochs veringern
+
+AZ HL/ AZ Neu	epochs	batch_size	Lernrate 	Optimierer	Fehlerrate (%)
+1/20		2000	20		0,1		SGDMomentum	12,14
+2/20		2000	20		0,1		SGDMomentum	13,37
+1/10		2000	20		0,1		SGDMomentum	13,17
+1/40		2000	20		0,1		SGDMomentum	12,55
+1/20		4000	20		0,1		SGDMomentum	13,37
+
+B4.6. Fehlerrate
+B2 16,59%
+B4 12,14%

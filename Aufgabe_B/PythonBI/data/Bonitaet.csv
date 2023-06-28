@@ -1,0 +1,646 @@
+Kreditwuerdigkeit,Ausbildung,Bezahlung,Alter,Kreditkarte
+ja,Fachkraft,monatlich,29,ja
+nein,Fachkraft,woechentlich,31,ja
+nein,angelernte Taetigkeit,woechentlich,23,ja
+ja,Fachkraft,monatlich,29,nein
+ja,Buerokraft,monatlich,21,nein
+ja,Manager,monatlich,19,ja
+ja,Fachkraft,monatlich,47,nein
+nein,Fachkraft,monatlich,21,nein
+nein,Fachkraft,woechentlich,21,nein
+nein,Buerokraft,woechentlich,20,nein
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,18,ja
+nein,Fachkraft,woechentlich,20,ja
+nein,Fachkraft,woechentlich,18,ja
+nein,Buerokraft,woechentlich,18,ja
+nein,Fachkraft,woechentlich,33,ja
+nein,angelernte Taetigkeit,woechentlich,22,ja
+nein,Fachkraft,monatlich,20,nein
+nein,Buerokraft,woechentlich,23,ja
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,18,ja
+ja,Buerokraft,woechentlich,23,ja
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,23,nein
+nein,Buerokraft,woechentlich,22,ja
+nein,Fachkraft,woechentlich,35,ja
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Fachkraft,monatlich,19,ja
+nein,ohne Ausbildung,woechentlich,23,ja
+nein,Fachkraft,woechentlich,19,nein
+nein,Buerokraft,woechentlich,23,nein
+nein,ohne Ausbildung,woechentlich,18,ja
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Fachkraft,monatlich,21,ja
+nein,Fachkraft,woechentlich,23,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,Fachkraft,woechentlich,27,nein
+nein,angelernte Taetigkeit,woechentlich,24,nein
+nein,Buerokraft,monatlich,23,ja
+nein,Buerokraft,woechentlich,20,nein
+nein,ohne Ausbildung,woechentlich,21,ja
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Buerokraft,woechentlich,22,ja
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,24,nein
+nein,Buerokraft,woechentlich,24,nein
+nein,Fachkraft,woechentlich,28,nein
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,20,ja
+nein,ohne Ausbildung,woechentlich,24,nein
+nein,Fachkraft,woechentlich,19,nein
+nein,Buerokraft,woechentlich,21,ja
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Fachkraft,monatlich,23,nein
+nein,Fachkraft,woechentlich,19,ja
+nein,Buerokraft,woechentlich,19,nein
+nein,Fachkraft,woechentlich,34,ja
+nein,angelernte Taetigkeit,woechentlich,23,ja
+nein,Fachkraft,monatlich,22,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,ohne Ausbildung,woechentlich,19,ja
+nein,angelernte Taetigkeit,woechentlich,20,ja
+nein,Fachkraft,woechentlich,24,nein
+nein,ohne Ausbildung,woechentlich,24,ja
+nein,angelernte Taetigkeit,woechentlich,23,ja
+nein,Buerokraft,woechentlich,24,nein
+nein,Fachkraft,woechentlich,33,nein
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,19,ja
+nein,ohne Ausbildung,woechentlich,18,ja
+nein,Fachkraft,woechentlich,24,nein
+nein,Buerokraft,woechentlich,20,nein
+nein,ohne Ausbildung,woechentlich,18,nein
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Fachkraft,monatlich,19,ja
+nein,Fachkraft,woechentlich,22,ja
+nein,Buerokraft,woechentlich,20,ja
+nein,Fachkraft,woechentlich,25,ja
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,24,ja
+nein,Buerokraft,woechentlich,18,ja
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Buerokraft,woechentlich,21,ja
+nein,Fachkraft,woechentlich,30,ja
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,24,nein
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,Fachkraft,woechentlich,23,nein
+nein,Buerokraft,woechentlich,23,ja
+nein,ohne Ausbildung,woechentlich,24,ja
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Fachkraft,monatlich,22,nein
+nein,Fachkraft,woechentlich,20,ja
+nein,Buerokraft,woechentlich,19,nein
+nein,Fachkraft,woechentlich,26,ja
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Fachkraft,monatlich,22,ja
+nein,Buerokraft,woechentlich,21,ja
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,24,ja
+nein,Buerokraft,woechentlich,23,ja
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Buerokraft,woechentlich,20,nein
+nein,Fachkraft,woechentlich,32,nein
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Fachkraft,monatlich,24,nein
+nein,ohne Ausbildung,woechentlich,18,ja
+nein,Fachkraft,woechentlich,23,nein
+nein,Buerokraft,woechentlich,19,nein
+nein,ohne Ausbildung,woechentlich,20,ja
+nein,angelernte Taetigkeit,woechentlich,22,ja
+nein,Fachkraft,monatlich,19,ja
+nein,Fachkraft,woechentlich,23,ja
+nein,Buerokraft,woechentlich,19,ja
+nein,Fachkraft,woechentlich,32,nein
+nein,angelernte Taetigkeit,woechentlich,22,ja
+nein,Fachkraft,monatlich,23,ja
+nein,Buerokraft,woechentlich,19,nein
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Buerokraft,woechentlich,20,nein
+nein,ohne Ausbildung,woechentlich,21,nein
+nein,angelernte Taetigkeit,woechentlich,23,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,Fachkraft,woechentlich,34,nein
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Fachkraft,monatlich,23,ja
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,Fachkraft,woechentlich,21,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,ohne Ausbildung,woechentlich,23,ja
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Fachkraft,monatlich,22,ja
+nein,Fachkraft,woechentlich,23,nein
+nein,Buerokraft,woechentlich,21,ja
+nein,Fachkraft,woechentlich,34,nein
+nein,angelernte Taetigkeit,woechentlich,20,nein
+nein,Fachkraft,monatlich,19,nein
+nein,Buerokraft,woechentlich,19,ja
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Buerokraft,woechentlich,20,nein
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,18,ja
+nein,Buerokraft,woechentlich,21,nein
+nein,Fachkraft,woechentlich,31,ja
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,21,nein
+nein,ohne Ausbildung,woechentlich,20,nein
+ja,Fachkraft,monatlich,59,nein
+ja,Manager,monatlich,54,ja
+nein,Manager,woechentlich,19,ja
+ja,Manager,monatlich,31,nein
+nein,Fachkraft,monatlich,48,ja
+nein,Buerokraft,woechentlich,18,ja
+ja,Manager,monatlich,32,ja
+ja,Manager,monatlich,40,nein
+ja,Fachkraft,monatlich,35,ja
+ja,Manager,woechentlich,24,ja
+ja,Fachkraft,monatlich,34,ja
+ja,Manager,monatlich,42,nein
+ja,Manager,monatlich,35,nein
+ja,Fachkraft,monatlich,32,ja
+ja,Manager,woechentlich,26,nein
+nein,angelernte Taetigkeit,woechentlich,18,nein
+ja,Fachkraft,monatlich,31,nein
+ja,Buerokraft,monatlich,23,nein
+ja,Manager,monatlich,58,nein
+ja,Fachkraft,monatlich,44,nein
+nein,Fachkraft,monatlich,21,ja
+ja,Fachkraft,monatlich,34,ja
+ja,Fachkraft,monatlich,31,ja
+ja,Fachkraft,monatlich,36,nein
+ja,Fachkraft,monatlich,23,ja
+ja,Fachkraft,monatlich,33,ja
+ja,Fachkraft,monatlich,52,ja
+ja,Fachkraft,monatlich,19,nein
+ja,ohne Ausbildung,woechentlich,46,nein
+ja,Fachkraft,monatlich,25,ja
+ja,Fachkraft,monatlich,44,ja
+ja,Manager,monatlich,52,nein
+nein,Fachkraft,woechentlich,21,nein
+ja,Manager,monatlich,30,ja
+ja,Fachkraft,monatlich,48,ja
+nein,Buerokraft,woechentlich,20,nein
+ja,Manager,monatlich,31,nein
+ja,Manager,monatlich,59,ja
+ja,Fachkraft,monatlich,28,nein
+ja,ohne Ausbildung,woechentlich,19,nein
+ja,Fachkraft,monatlich,22,ja
+ja,Manager,monatlich,58,nein
+ja,Fachkraft,monatlich,26,ja
+ja,Fachkraft,monatlich,32,nein
+nein,Fachkraft,woechentlich,26,nein
+nein,angelernte Taetigkeit,woechentlich,22,ja
+ja,Fachkraft,monatlich,26,ja
+ja,Buerokraft,monatlich,23,nein
+ja,Manager,monatlich,20,nein
+ja,Fachkraft,monatlich,58,ja
+nein,Fachkraft,monatlich,21,nein
+ja,Fachkraft,monatlich,28,nein
+ja,Fachkraft,monatlich,28,nein
+ja,Fachkraft,monatlich,60,ja
+ja,Fachkraft,monatlich,24,ja
+ja,Fachkraft,monatlich,27,nein
+ja,Fachkraft,monatlich,50,ja
+ja,Fachkraft,monatlich,18,ja
+ja,ohne Ausbildung,woechentlich,46,ja
+ja,Fachkraft,monatlich,25,ja
+ja,Fachkraft,monatlich,44,ja
+ja,Manager,monatlich,51,nein
+ja,Fachkraft,woechentlich,20,ja
+ja,Manager,monatlich,31,ja
+ja,Fachkraft,monatlich,60,nein
+nein,Buerokraft,woechentlich,21,nein
+ja,Manager,monatlich,28,nein
+ja,Manager,monatlich,57,ja
+ja,Fachkraft,monatlich,29,ja
+nein,ohne Ausbildung,woechentlich,18,nein
+ja,Fachkraft,monatlich,23,ja
+ja,Manager,monatlich,59,nein
+ja,Fachkraft,monatlich,34,ja
+ja,Fachkraft,monatlich,31,ja
+ja,Fachkraft,woechentlich,28,nein
+nein,angelernte Taetigkeit,woechentlich,24,ja
+ja,Fachkraft,monatlich,30,ja
+ja,Buerokraft,monatlich,21,ja
+ja,Manager,monatlich,41,ja
+ja,Fachkraft,woechentlich,39,ja
+ja,Fachkraft,monatlich,20,nein
+ja,Fachkraft,monatlich,28,ja
+ja,Fachkraft,monatlich,31,ja
+ja,Fachkraft,monatlich,49,nein
+ja,Fachkraft,woechentlich,21,ja
+ja,Fachkraft,monatlich,34,nein
+ja,Fachkraft,monatlich,59,nein
+ja,Fachkraft,monatlich,24,nein
+ja,ohne Ausbildung,woechentlich,43,ja
+ja,Fachkraft,monatlich,35,nein
+ja,Fachkraft,monatlich,38,nein
+ja,Manager,monatlich,41,nein
+ja,Fachkraft,woechentlich,22,nein
+ja,Manager,monatlich,34,ja
+ja,Fachkraft,monatlich,42,nein
+nein,Buerokraft,woechentlich,20,nein
+ja,Manager,monatlich,27,nein
+ja,Manager,monatlich,45,ja
+ja,Fachkraft,monatlich,31,nein
+nein,ohne Ausbildung,woechentlich,23,nein
+ja,Fachkraft,monatlich,27,nein
+ja,Manager,monatlich,41,nein
+ja,Fachkraft,monatlich,33,nein
+ja,Fachkraft,monatlich,35,ja
+ja,Fachkraft,woechentlich,30,ja
+nein,angelernte Taetigkeit,woechentlich,20,nein
+ja,Fachkraft,monatlich,26,nein
+ja,Buerokraft,monatlich,20,ja
+ja,Manager,monatlich,50,nein
+ja,Fachkraft,monatlich,47,ja
+ja,Fachkraft,monatlich,19,nein
+ja,Fachkraft,monatlich,29,nein
+ja,Fachkraft,monatlich,30,ja
+ja,Fachkraft,monatlich,41,nein
+ja,Fachkraft,monatlich,19,ja
+ja,Fachkraft,monatlich,28,ja
+ja,Fachkraft,monatlich,51,nein
+ja,Fachkraft,monatlich,22,ja
+ja,ohne Ausbildung,woechentlich,46,ja
+ja,Fachkraft,monatlich,34,nein
+ja,Fachkraft,monatlich,47,nein
+ja,Manager,monatlich,40,ja
+ja,Fachkraft,woechentlich,22,nein
+ja,Manager,monatlich,30,nein
+ja,Fachkraft,monatlich,50,ja
+nein,Buerokraft,woechentlich,21,nein
+ja,Manager,monatlich,27,nein
+ja,Manager,monatlich,53,ja
+ja,Fachkraft,monatlich,31,ja
+ja,ohne Ausbildung,woechentlich,20,nein
+ja,Fachkraft,monatlich,18,ja
+ja,Manager,monatlich,44,ja
+ja,Fachkraft,monatlich,30,ja
+ja,Fachkraft,monatlich,42,ja
+ja,Fachkraft,monatlich,20,ja
+ja,Fachkraft,monatlich,27,ja
+ja,Fachkraft,monatlich,55,nein
+ja,Fachkraft,monatlich,21,nein
+ja,ohne Ausbildung,woechentlich,55,nein
+ja,Fachkraft,monatlich,31,ja
+ja,Fachkraft,monatlich,38,nein
+ja,Manager,monatlich,59,nein
+ja,Fachkraft,woechentlich,24,nein
+ja,Manager,monatlich,33,ja
+ja,Fachkraft,monatlich,59,ja
+ja,Buerokraft,woechentlich,20,nein
+ja,Manager,monatlich,25,ja
+ja,Manager,monatlich,54,ja
+ja,Fachkraft,monatlich,31,nein
+nein,ohne Ausbildung,woechentlich,23,nein
+ja,Fachkraft,monatlich,20,nein
+ja,Manager,monatlich,59,nein
+ja,Fachkraft,monatlich,33,nein
+ja,Fachkraft,monatlich,26,nein
+ja,Fachkraft,woechentlich,25,nein
+ja,angelernte Taetigkeit,woechentlich,19,ja
+ja,Fachkraft,monatlich,27,ja
+ja,Buerokraft,monatlich,20,ja
+ja,Manager,monatlich,43,ja
+ja,Fachkraft,woechentlich,43,nein
+ja,Fachkraft,monatlich,21,ja
+ja,Fachkraft,monatlich,29,ja
+ja,Fachkraft,monatlich,35,ja
+ja,Fachkraft,monatlich,49,nein
+ja,Fachkraft,woechentlich,21,nein
+ja,Fachkraft,monatlich,32,nein
+ja,Fachkraft,monatlich,48,nein
+ja,Fachkraft,monatlich,21,nein
+ja,Fachkraft,monatlich,31,ja
+nein,Fachkraft,woechentlich,33,nein
+nein,angelernte Taetigkeit,woechentlich,25,ja
+ja,Fachkraft,monatlich,31,nein
+ja,Buerokraft,monatlich,23,nein
+ja,Manager,monatlich,21,ja
+ja,Fachkraft,monatlich,49,nein
+nein,Fachkraft,monatlich,23,nein
+nein,Fachkraft,woechentlich,23,nein
+nein,Buerokraft,woechentlich,22,nein
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,angelernte Taetigkeit,woechentlich,20,ja
+nein,Fachkraft,monatlich,22,ja
+nein,Fachkraft,woechentlich,20,ja
+nein,Buerokraft,woechentlich,20,ja
+nein,Fachkraft,woechentlich,35,ja
+nein,angelernte Taetigkeit,woechentlich,24,ja
+nein,Fachkraft,monatlich,22,nein
+nein,Buerokraft,woechentlich,25,ja
+nein,ohne Ausbildung,woechentlich,21,nein
+nein,angelernte Taetigkeit,woechentlich,20,ja
+nein,Buerokraft,woechentlich,25,ja
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,Fachkraft,woechentlich,33,ja
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Fachkraft,monatlich,22,ja
+nein,ohne Ausbildung,woechentlich,21,ja
+nein,Fachkraft,woechentlich,18,nein
+nein,Buerokraft,woechentlich,21,nein
+nein,ohne Ausbildung,woechentlich,19,ja
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,19,ja
+nein,Fachkraft,woechentlich,21,nein
+nein,Buerokraft,woechentlich,18,ja
+nein,Fachkraft,woechentlich,25,nein
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Fachkraft,monatlich,21,ja
+nein,Buerokraft,woechentlich,18,nein
+nein,ohne Ausbildung,woechentlich,19,ja
+nein,angelernte Taetigkeit,woechentlich,20,nein
+nein,Buerokraft,woechentlich,20,ja
+nein,ohne Ausbildung,woechentlich,18,nein
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Buerokraft,woechentlich,22,nein
+nein,Fachkraft,woechentlich,26,nein
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Fachkraft,monatlich,18,ja
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,Fachkraft,woechentlich,18,nein
+nein,Buerokraft,woechentlich,19,ja
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,20,nein
+nein,Fachkraft,monatlich,21,nein
+nein,Fachkraft,woechentlich,19,ja
+nein,Buerokraft,woechentlich,21,nein
+nein,Fachkraft,woechentlich,32,ja
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Fachkraft,monatlich,20,nein
+nein,Buerokraft,woechentlich,18,ja
+nein,ohne Ausbildung,woechentlich,18,ja
+nein,angelernte Taetigkeit,woechentlich,18,ja
+nein,Buerokraft,woechentlich,22,nein
+nein,ohne Ausbildung,woechentlich,22,ja
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Buerokraft,woechentlich,22,nein
+nein,Fachkraft,woechentlich,31,nein
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,18,ja
+nein,ohne Ausbildung,woechentlich,18,ja
+nein,Fachkraft,woechentlich,22,nein
+nein,Buerokraft,woechentlich,18,nein
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Fachkraft,monatlich,21,ja
+nein,Fachkraft,woechentlich,20,ja
+nein,Buerokraft,woechentlich,18,ja
+nein,Fachkraft,woechentlich,23,ja
+nein,angelernte Taetigkeit,woechentlich,24,nein
+nein,Fachkraft,monatlich,22,ja
+nein,Buerokraft,woechentlich,23,ja
+nein,ohne Ausbildung,woechentlich,18,nein
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Buerokraft,woechentlich,18,ja
+nein,ohne Ausbildung,woechentlich,20,nein
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Buerokraft,woechentlich,19,ja
+nein,Fachkraft,woechentlich,28,ja
+nein,angelernte Taetigkeit,woechentlich,19,nein
+nein,Fachkraft,monatlich,22,nein
+nein,ohne Ausbildung,woechentlich,18,nein
+nein,Fachkraft,woechentlich,21,nein
+nein,Buerokraft,woechentlich,21,ja
+nein,ohne Ausbildung,woechentlich,22,ja
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Fachkraft,monatlich,20,nein
+nein,Fachkraft,woechentlich,18,ja
+nein,Buerokraft,woechentlich,19,nein
+nein,Fachkraft,woechentlich,24,ja
+nein,angelernte Taetigkeit,woechentlich,20,nein
+nein,Fachkraft,monatlich,20,ja
+nein,Buerokraft,woechentlich,19,ja
+nein,ohne Ausbildung,woechentlich,18,nein
+nein,angelernte Taetigkeit,woechentlich,22,ja
+nein,Buerokraft,woechentlich,21,ja
+nein,ohne Ausbildung,woechentlich,19,nein
+nein,angelernte Taetigkeit,woechentlich,19,ja
+nein,Buerokraft,woechentlich,18,nein
+nein,Fachkraft,woechentlich,34,nein
+nein,angelernte Taetigkeit,woechentlich,23,nein
+nein,Fachkraft,monatlich,26,nein
+nein,ohne Ausbildung,woechentlich,20,ja
+nein,Fachkraft,woechentlich,25,nein
+nein,Buerokraft,woechentlich,21,nein
+nein,ohne Ausbildung,woechentlich,22,ja
+nein,angelernte Taetigkeit,woechentlich,24,ja
+nein,Fachkraft,monatlich,21,ja
+nein,Fachkraft,woechentlich,25,ja
+nein,Buerokraft,woechentlich,21,ja
+nein,Fachkraft,woechentlich,34,nein
+nein,angelernte Taetigkeit,woechentlich,24,ja
+nein,Fachkraft,monatlich,25,ja
+nein,Buerokraft,woechentlich,21,nein
+nein,ohne Ausbildung,woechentlich,24,nein
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Buerokraft,woechentlich,22,nein
+nein,ohne Ausbildung,woechentlich,23,nein
+nein,angelernte Taetigkeit,woechentlich,25,nein
+nein,Buerokraft,woechentlich,22,ja
+nein,Fachkraft,woechentlich,36,nein
+nein,angelernte Taetigkeit,woechentlich,23,nein
+nein,Fachkraft,monatlich,25,ja
+nein,ohne Ausbildung,woechentlich,24,nein
+nein,Fachkraft,woechentlich,23,nein
+nein,Buerokraft,woechentlich,22,ja
+nein,ohne Ausbildung,woechentlich,25,ja
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Fachkraft,monatlich,24,ja
+nein,Fachkraft,woechentlich,25,nein
+nein,Buerokraft,woechentlich,23,ja
+nein,Fachkraft,woechentlich,36,nein
+nein,angelernte Taetigkeit,woechentlich,22,nein
+nein,Fachkraft,monatlich,21,nein
+nein,Buerokraft,woechentlich,21,ja
+nein,ohne Ausbildung,woechentlich,21,nein
+nein,angelernte Taetigkeit,woechentlich,21,ja
+nein,Buerokraft,woechentlich,22,nein
+nein,ohne Ausbildung,woechentlich,22,nein
+nein,angelernte Taetigkeit,woechentlich,20,ja
+nein,Buerokraft,woechentlich,23,nein
+nein,Fachkraft,woechentlich,33,ja
+nein,angelernte Taetigkeit,woechentlich,21,nein
+nein,Fachkraft,monatlich,23,nein
+nein,ohne Ausbildung,woechentlich,22,nein
+ja,Fachkraft,monatlich,56,nein
+ja,Manager,monatlich,56,ja
+nein,Manager,woechentlich,21,ja
+ja,Manager,monatlich,33,nein
+nein,Fachkraft,monatlich,50,ja
+nein,Buerokraft,woechentlich,20,ja
+ja,Manager,monatlich,34,ja
+ja,Manager,monatlich,42,nein
+ja,Fachkraft,monatlich,37,ja
+ja,Manager,woechentlich,26,ja
+ja,Fachkraft,monatlich,36,ja
+ja,Manager,monatlich,44,nein
+ja,Fachkraft,monatlich,37,nein
+ja,Fachkraft,monatlich,34,ja
+ja,Manager,woechentlich,28,nein
+nein,angelernte Taetigkeit,woechentlich,20,nein
+ja,Fachkraft,monatlich,33,nein
+ja,Buerokraft,monatlich,25,nein
+ja,Manager,monatlich,60,nein
+ja,Fachkraft,monatlich,46,nein
+nein,Fachkraft,monatlich,23,ja
+ja,Fachkraft,monatlich,36,ja
+ja,Fachkraft,monatlich,33,ja
+ja,Fachkraft,monatlich,38,nein
+ja,Fachkraft,monatlich,25,ja
+ja,Fachkraft,monatlich,35,ja
+ja,Fachkraft,monatlich,54,ja
+ja,Fachkraft,monatlich,21,nein
+ja,ohne Ausbildung,woechentlich,48,nein
+ja,Fachkraft,monatlich,27,ja
+ja,Fachkraft,monatlich,46,ja
+ja,Manager,monatlich,54,nein
+nein,Fachkraft,woechentlich,23,nein
+ja,Manager,monatlich,32,ja
+ja,Fachkraft,monatlich,50,ja
+nein,Buerokraft,woechentlich,22,nein
+ja,Manager,monatlich,33,nein
+ja,Manager,monatlich,59,ja
+ja,Fachkraft,monatlich,30,nein
+ja,ohne Ausbildung,woechentlich,21,nein
+ja,Fachkraft,monatlich,24,ja
+ja,Manager,monatlich,60,nein
+ja,Fachkraft,monatlich,28,ja
+ja,Fachkraft,monatlich,34,nein
+nein,Fachkraft,woechentlich,28,nein
+nein,angelernte Taetigkeit,woechentlich,24,ja
+ja,Fachkraft,monatlich,28,ja
+ja,Buerokraft,monatlich,25,nein
+ja,Manager,monatlich,22,nein
+ja,Fachkraft,monatlich,59,ja
+nein,Fachkraft,monatlich,23,nein
+ja,Fachkraft,monatlich,30,nein
+ja,Fachkraft,monatlich,30,nein
+ja,Fachkraft,monatlich,59,ja
+ja,Fachkraft,monatlich,26,ja
+ja,Fachkraft,monatlich,29,nein
+ja,Fachkraft,monatlich,52,ja
+ja,Fachkraft,monatlich,20,ja
+ja,ohne Ausbildung,woechentlich,48,ja
+ja,Fachkraft,monatlich,27,ja
+ja,Fachkraft,monatlich,46,ja
+ja,Manager,monatlich,53,nein
+ja,Fachkraft,woechentlich,22,ja
+ja,Manager,monatlich,33,ja
+ja,Fachkraft,monatlich,60,nein
+nein,Buerokraft,woechentlich,23,nein
+ja,Manager,monatlich,30,nein
+ja,Manager,monatlich,59,ja
+ja,Fachkraft,monatlich,31,ja
+nein,ohne Ausbildung,woechentlich,20,nein
+ja,Fachkraft,monatlich,25,ja
+ja,Manager,monatlich,58,nein
+ja,Fachkraft,monatlich,36,ja
+ja,Fachkraft,monatlich,33,ja
+ja,Fachkraft,woechentlich,30,nein
+nein,angelernte Taetigkeit,woechentlich,26,ja
+ja,Fachkraft,monatlich,32,ja
+ja,Buerokraft,monatlich,23,ja
+ja,Manager,monatlich,43,ja
+ja,Fachkraft,woechentlich,41,ja
+ja,Fachkraft,monatlich,22,nein
+ja,Fachkraft,monatlich,30,ja
+ja,Fachkraft,monatlich,33,ja
+ja,Fachkraft,monatlich,51,nein
+ja,Fachkraft,woechentlich,23,ja
+ja,Fachkraft,monatlich,36,nein
+ja,Fachkraft,monatlich,60,nein
+ja,Fachkraft,monatlich,26,nein
+ja,ohne Ausbildung,woechentlich,45,ja
+ja,Fachkraft,monatlich,37,nein
+ja,Fachkraft,monatlich,40,nein
+ja,Manager,monatlich,43,nein
+ja,Fachkraft,woechentlich,24,nein
+ja,Manager,monatlich,36,ja
+ja,Fachkraft,monatlich,44,nein
+nein,Buerokraft,woechentlich,22,nein
+ja,Manager,monatlich,29,nein
+ja,Manager,monatlich,47,ja
+ja,Fachkraft,monatlich,33,nein
+nein,ohne Ausbildung,woechentlich,25,nein
+ja,Fachkraft,monatlich,29,nein
+ja,Manager,monatlich,43,nein
+ja,Fachkraft,monatlich,35,nein
+ja,Fachkraft,monatlich,37,ja
+ja,Fachkraft,woechentlich,32,ja
+nein,angelernte Taetigkeit,woechentlich,22,nein
+ja,Fachkraft,monatlich,28,nein
+ja,Buerokraft,monatlich,22,ja
+ja,Manager,monatlich,52,nein
+ja,Fachkraft,monatlich,49,ja
+ja,Fachkraft,monatlich,21,nein
+ja,Fachkraft,monatlich,31,nein
+ja,Fachkraft,monatlich,32,ja
+ja,Fachkraft,monatlich,43,nein
+ja,Fachkraft,monatlich,21,ja
+ja,Fachkraft,monatlich,30,ja
+ja,Fachkraft,monatlich,53,nein
+ja,Fachkraft,monatlich,24,ja
+ja,ohne Ausbildung,woechentlich,48,ja
+ja,Fachkraft,monatlich,36,nein
+ja,Fachkraft,monatlich,49,nein
+ja,Manager,monatlich,42,ja
+ja,Fachkraft,woechentlich,24,nein
+ja,Manager,monatlich,32,nein
+ja,Fachkraft,monatlich,52,ja
+nein,Buerokraft,woechentlich,23,nein
+ja,Manager,monatlich,29,nein
+ja,Manager,monatlich,55,ja
+ja,Fachkraft,monatlich,33,ja
+ja,ohne Ausbildung,woechentlich,22,nein
+ja,Fachkraft,monatlich,20,ja
+ja,Manager,monatlich,46,ja
+ja,Fachkraft,monatlich,32,ja
+ja,Fachkraft,monatlich,44,ja
+ja,Fachkraft,monatlich,22,ja
+ja,Fachkraft,monatlich,29,ja
+ja,Fachkraft,monatlich,57,nein
+ja,Fachkraft,monatlich,23,nein
+ja,ohne Ausbildung,woechentlich,57,nein
+ja,Fachkraft,monatlich,33,ja
+ja,Fachkraft,monatlich,40,nein
+ja,Manager,monatlich,59,nein
+ja,Fachkraft,woechentlich,26,nein
+ja,Manager,monatlich,35,ja
+ja,Fachkraft,monatlich,60,ja
+ja,Buerokraft,woechentlich,22,nein
+ja,Manager,monatlich,27,ja
+ja,Manager,monatlich,56,ja
+ja,Fachkraft,monatlich,33,nein
+nein,ohne Ausbildung,woechentlich,25,nein
+ja,Fachkraft,monatlich,22,nein
+ja,Manager,monatlich,59,nein
+ja,Fachkraft,monatlich,35,nein
+ja,Fachkraft,monatlich,28,nein
+ja,Fachkraft,woechentlich,27,nein
+ja,angelernte Taetigkeit,woechentlich,21,ja
+ja,Fachkraft,monatlich,29,ja
+ja,Buerokraft,monatlich,22,ja
+ja,Manager,monatlich,45,ja
+ja,Fachkraft,woechentlich,45,nein
+ja,Fachkraft,monatlich,23,ja
+ja,Fachkraft,monatlich,31,ja
+ja,Fachkraft,monatlich,37,ja
+ja,Fachkraft,monatlich,50,nein
+ja,Fachkraft,woechentlich,20,nein
+ja,Fachkraft,monatlich,31,nein
+ja,Fachkraft,monatlich,18,nein
